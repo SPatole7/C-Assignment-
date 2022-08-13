@@ -1,7 +1,0 @@
-C:\Users\Admin\Documents\ASP.Net Examples\Asssignments_C_sharp\Asssignments_C_sharp\bin\Debug\Asssignments_C_sharp.exe.config
-C:\Users\Admin\Documents\ASP.Net Examples\Asssignments_C_sharp\Asssignments_C_sharp\bin\Debug\Asssignments_C_sharp.exe
-C:\Users\Admin\Documents\ASP.Net Examples\Asssignments_C_sharp\Asssignments_C_sharp\bin\Debug\Asssignments_C_sharp.pdb
-C:\Users\Admin\Documents\ASP.Net Examples\Asssignments_C_sharp\Asssignments_C_sharp\obj\Debug\Asssignments_C_sharp.csproj.AssemblyReference.cache
-C:\Users\Admin\Documents\ASP.Net Examples\Asssignments_C_sharp\Asssignments_C_sharp\obj\Debug\Asssignments_C_sharp.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Documents\ASP.Net Examples\Asssignments_C_sharp\Asssignments_C_sharp\obj\Debug\Asssignments_C_sharp.exe
-C:\Users\Admin\Documents\ASP.Net Examples\Asssignments_C_sharp\Asssignments_C_sharp\obj\Debug\Asssignments_C_sharp.pdb
